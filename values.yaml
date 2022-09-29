@@ -1,0 +1,4 @@
+container:
+  image: bitnami/prometheus:latest
+
+replicaCount: 2
